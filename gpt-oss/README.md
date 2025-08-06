@@ -4,11 +4,11 @@ Experience the power of GPT-OSS reasoning locally - see exactly how the model th
 
 ## Why This Matters
 
-- 🏠 **100% Local**: Run GPT-OSS on your own hardware using Ollama
-- 🧠 **See The Thinking**: Watch the model's reasoning process unfold in expandable panels
-- 🔒 **Privacy First**: Your conversations never leave your machine
-- ⚡ **GPT-OSS:20B**: Advanced reasoning capabilities with native thinking support
-- 💰 **Zero Cost**: No API fees or usage limits
+- **100% Local**: Run GPT-OSS on your own hardware using Ollama
+- **See The Thinking**: Watch the model's reasoning process unfold in expandable panels
+- **Privacy First**: Your conversations never leave your machine
+- **GPT-OSS:20B**: Advanced reasoning capabilities with native thinking support
+- **Zero Cost**: No API fees or usage limits
 
 ## Key Features
 
