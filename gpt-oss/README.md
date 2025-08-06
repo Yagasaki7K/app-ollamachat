@@ -1,4 +1,4 @@
-# Run GPT-OSS Locally with Thinking UI 🧠
+# Run GPT-OSS Locally with Thinking UI
 
 Experience the power of GPT-OSS reasoning locally - see exactly how the model thinks through problems before giving you answers.
 
