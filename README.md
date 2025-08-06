@@ -1,7 +1,7 @@
 # Ollama Chat
 Welcome to the **Ollama Chat/Yagasaki7K**!
 
-## 🌟 Why This Repo?
+## Why This Repo?
 AI Engineering is advancing rapidly, and staying at the forefront requires both deep understanding and hands-on experience. Here, you will find:
 - In-depth tutorials on **LLMs and RAGs**
 - Real-world **AI agent** applications
